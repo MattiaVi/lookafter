@@ -35,15 +35,15 @@ Then scan the QR code and enjoy.
 
 <div style="display: flex; gap: 10px;">
   <div style="flex: 1; text-align: center;">
-    <img src="images/homePage.jpeg" width="100%" />
+    <img src="images/homePage.jpeg" width="30%" />
     <p>Main Page</p>
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="images/camera.jpeg" width="100%" />
+    <img src="images/camera.jpeg" width="30%" />
     <p>Camera Page</p>
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="images/confirmation.jpeg" width="100%" />
+    <img src="images/confirmation.jpeg" width="30%" />
     <p>Preview Page</p>
   </div>
 </div>
@@ -52,15 +52,15 @@ Then scan the QR code and enjoy.
 
 <div style="display: flex; gap: 10px;">
   <div style="flex: 1; text-align: center;">
-    <img src="images/chat.jpeg" width="100%" />
+    <img src="images/chat.jpeg" width="30%" />
     <p>Chat Page</p>
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="images/microphone.jpeg" width="100%" />
+    <img src="images/microphone.jpeg" width="30%" />
     <p>Microphone Page</p>
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="images/monalisa_artwork.jpeg" width="100%" />
+    <img src="images/monalisa_artwork.jpeg" width="30%" />
     <p>List of Artworks</p>
   </div>
 </div>
