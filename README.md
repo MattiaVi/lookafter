@@ -27,3 +27,40 @@ Make sure that the Android smartphone running the **Expo Go** app is connected t
 Insert your Google API key in the first line of `.env` in the server to let the speech recognition work.
 
 Then scan the QR code and enjoy.
+
+
+# Example images
+
+<p><strong>Figure: Various UI changes made in the LookAfter application</strong></p>
+
+<div style="display: flex; gap: 10px;">
+  <div style="flex: 1; text-align: center;">
+    <img src="images/ch7_img/homePage.jpeg" width="100%" />
+    <p>Main Page</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="images/ch7_img/camera.jpeg" width="100%" />
+    <p>Camera Page</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="images/ch7_img/confirmation.jpeg" width="100%" />
+    <p>Preview Page</p>
+  </div>
+</div>
+
+<br/>
+
+<div style="display: flex; gap: 10px;">
+  <div style="flex: 1; text-align: center;">
+    <img src="images/ch7_img/chat.jpeg" width="100%" />
+    <p>Chat Page</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="images/ch7_img/microphone.jpeg" width="100%" />
+    <p>Microphone Page</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="images/ch7_img/monalisa_artwork.jpeg" width="100%" />
+    <p>List of Artworks</p>
+  </div>
+</div>
